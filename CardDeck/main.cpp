@@ -1,3 +1,8 @@
+/*@Deck class; able to shuffle
+ *@author Anna Hwang
+ *@github hwangas
+ */
+
 #include <iostream>
 #include "Deck.h"
 
