@@ -1,4 +1,4 @@
-/*@Deck class; able to shuffle
+/*@Deck class; able to shuffle.
  *@author Anna Hwang
  *@github hwangas
  */
